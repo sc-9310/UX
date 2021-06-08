@@ -6,4 +6,4 @@ This section is for user experience (UX) guidelines and practices.
 
 ## Contact & Support
 ***
-* For any help of questions, please join the [**Official StakeCube Discord**](https://discord.gg/xnfJ9VG2zV).
+* For any help or questions, please join the [**Official StakeCube Discord**](https://discord.gg/xnfJ9VG2zV).
