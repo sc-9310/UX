@@ -14,11 +14,11 @@ license. All parties are welcome to fork this repository to make changes and ref
 
 ## Contents
 ### Section A: Workflow
-1. [Plan](1-plan)
-2. [Design](2-design)
-3. [Analyze](3-analyze)
-4. [Consense](4-consense)
-5. [Iterate](5-iterate)
+1. [Plan](https://github.com/stakecube/UX/blob/main/UX-Guidelines.md#1-brain-plan)
+2. [Design](https://github.com/stakecube/UX/blob/main/UX-Guidelines.md#2-pencil-design)
+3. [Analyze](https://github.com/stakecube/UX/blob/main/UX-Guidelines.md#3-microscope-analyze)
+4. [Consense](https://github.com/stakecube/UX/blob/main/UX-Guidelines.md#4-handshake-consense)
+5. [Iterate](https://github.com/stakecube/UX/blob/main/UX-Guidelines.md#5-wrench-iterate)
 ### Section B: General Guidelines
 * [Less is More](#less-is-more)
 * [Stay Consistent](#stay-consistent)
